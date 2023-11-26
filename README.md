@@ -16,7 +16,11 @@ Une application Windows Forms développée en C# en utilisant des formulaires in
 * Créditer / Débiter
 <img width="311" alt="image" src="https://github.com/karima-bou10/gestion_compte_bancaire/assets/83795107/01365aa9-a637-4f6c-a736-a23bbb26c127">  
 
+## Comment exécuter
 
+1. Clonez ce référentiel.
+2. Ouvrez le projet dans Visual Studio.
+3. Compilez et exécutez l'application.
 
 
 
